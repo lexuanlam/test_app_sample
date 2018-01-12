@@ -1,0 +1,23 @@
+#vi.myl
+vi:
+  static_pages:
+    home:
+      title_home: "Trang chủ | Hướng dẫn sử dụng Ruby on Rails"
+      h1: "Hướng dẫn sử dụng Ruby on Rails"
+      sample_app: "Ứng dụng mẫu"
+      des: "Đây là trang chủ của"
+      des2: "Ứng dụng mẫu."
+    help:
+      title_help: "Trợ giúp | Hướng dẫn sử dụng Ruby on Rails"
+      h1: "Trợ giúp"
+      p1: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+      p2: "Để được trợ giúp về ứng dụng mẫu này, hãy xem phần"
+    about:
+      title_about: "Mô tả | Hướng dẫn sử dụng Ruby on Rails"
+      h1: "Mô tả"
+      h2: "là một"
+      book: "sách"
+      and: "và"
+      screencast_series: "loạt screencast"
+      to: "để dạy phát triển web với"
+      this: "Đây là ứng dụng mẫu cho hướng dẫn."

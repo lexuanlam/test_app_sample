@@ -1,7 +1,13 @@
-<% provide(:title, "Home") %>
-<h1>Sample App</h1>
+<%
+h = t ".title_home"
+provide(:title,h)
+%>
+<h1><%= t ".h1" %></h1>
+<h1><%= t ".sample_app" %></h1>
 <p>
-  This is the home page for the
+  <%= t ".des" %>
   <a href="http://www.railstutorial.org/">Ruby on Rails Tutorial</a>
-  sample application.
+  <%= t ".des2" %>
 </p>
+
+
