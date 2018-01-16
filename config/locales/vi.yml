@@ -1,23 +1,54 @@
-#vi.myl
+
 vi:
   static_pages:
     home:
-      title_home: "Trang chủ | Hướng dẫn sử dụng Ruby on Rails"
-      h1: "Hướng dẫn sử dụng Ruby on Rails"
+      title: "Trang chủ | Hướng dẫn về Ruby on Rails"
+      welcome: "Chào mừng bạn đến với ứng dụng mẫu"
+      this_is: "Đây là trang chủ của"
+      ror_tutorial: "Hướng dẫn về Ruby on Rails"
       sample_app: "Ứng dụng mẫu"
-      des: "Đây là trang chủ của"
-      des2: "Ứng dụng mẫu."
+      sign_up: "đăng ký ngay!"
     help:
-      title_help: "Trợ giúp | Hướng dẫn sử dụng Ruby on Rails"
-      h1: "Trợ giúp"
-      p1: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
-      p2: "Để được trợ giúp về ứng dụng mẫu này, hãy xem phần"
+      title: "Trợ giúp | Hướng dẫn về Ruby on Rails"
+      help1: "trợ giúp"
+      get: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+      a1: "Trang trợ giúp hướng dẫn của Rails"
+      to_get: "Để được trợ giúp về ứng dụng mẫu này, hãy xem phần"
+      ror: "Sách hướng dẫn Ruby on Rails"
     about:
-      title_about: "Mô tả | Hướng dẫn sử dụng Ruby on Rails"
-      h1: "Mô tả"
-      h2: "là một"
-      book: "sách"
+      title: "Giới thiệu | Hướng dẫn về Ruby on Rails"
+      about: "Giới thiệu"
+      the: ""
+      a1: "Hướng dẫn về Ruby on Rails"
+      is: "là một"
+      a2: "sách"
       and: "và"
       screencast_series: "loạt screencast"
-      to: "để dạy phát triển web với"
-      this: "Đây là ứng dụng mẫu cho hướng dẫn."
+      to_teach: "để dạy phát triển web với"
+      a3: "Ruby on Rails"
+      this_is: "Đây là ứng dụng mẫu cho hướng dẫn."
+    contact:
+      title: "Liên hệ | Hướng dẫn về Ruby on Rails"
+      contact: "Liên hệ"
+      ct: "Liên hệ với Hướng dẫn của Ruby on Rails về ứng dụng mẫu tại"
+      a1: "trang liên lạc"
+
+  layouts:
+    footer:
+      the: ""
+      by: "bởi"
+      about: "Giới thiệu"
+      contact: "Liên lạc"
+      news: "Tin tức"
+      ror: "Hướng dẫn về Ruby on Rails"
+    header:
+      sample_app: "ứng dụng mẫu"
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      login: "Đăng nhập"
+
+  users:
+    new:
+      title: "Đăng kí | Hướng dẫn về Ruby on Rails"
+      sign_up: "Đăng kí"
+      text: "Đây sẽ là trang đăng kí cho người dùng"
